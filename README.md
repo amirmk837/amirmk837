@@ -1,14 +1,30 @@
-## Hi there 👋
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML%20Theme-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend HTML Theme Banner" />
-</p>
-<!--
-**amirmk837/amirmk837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="font-family: sans-serif; padding: 20px; background: linear-gradient(to right, #1e3c72, #2a5298); color: white;">
+  <h1 style="text-align: center; font-size: 2.5em;">⚡ Technologies & Tools</h1>
 
-Here are some ideas to get you started:
-![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  <div style="margin-top: 30px;">
+    <h2 style="color: #FFD700;">Front-End</h2>
+    <p>
+      🟥 HTML5 🟦 CSS3 🟨 JavaScript 🟦 TypeScript 🟦 React 🟦 Tailwind CSS
+    </p>
+
+    <h2 style="color: #ADFF2F;">Back-End & Others</h2>
+    <p>
+      🟩 Node.js 🟥 Laravel 🟪 .NET
+    </p>
+
+    <h2 style="color: #00CED1;">Databases</h2>
+    <p>
+      🟦 MySQL 🟦 PostgreSQL 🟩 MongoDB
+    </p>
+
+    <h2 style="color: #FF69B4;">DevOps & Tools</h2>
+    <p>
+      ⚫ Git 🟦 GitHub 🟦 VS Code 🟦 Docker
+    </p>
+
+    <h2 style="color: #FFA500;">Special Skills</h2>
+    <p>
+      🎨 Markdown, GitHub Branding, Shields.io, SVG Customization
+    </p>
+  </div>
+</div>
